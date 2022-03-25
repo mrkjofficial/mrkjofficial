@@ -65,15 +65,15 @@
 <table align="center">
     <tr>
         <td>
-            <a href="https://github.com/mrkjofficial"><img alt="Karan's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=mrkjofficial&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&border=00000000&stroke=008F8C&ring=008F8C&fire=F2A71B&currStreakNum=F2A71B&sideNums=008F8C&currStreakLabel=F2A71B&sideLabels=F2A71B&dates=F2A71B"></a>
+            <a href="#"><img alt="Karan's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=mrkjofficial&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&border=00000000&stroke=008F8C&ring=008F8C&fire=F2A71B&currStreakNum=F2A71B&sideNums=008F8C&currStreakLabel=F2A71B&sideLabels=F2A71B&dates=F2A71B"></a>
         </td>
         <td>
-            <a href="https://github.com/mrkjofficial"><img alt="Karan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mrkjofficial&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=008F8C&text_color=F2A71B&icon_color=008F8C&border_color=00000000&bg_color=00000000"></a>
+            <a href="#"><img alt="Karan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mrkjofficial&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=008F8C&text_color=F2A71B&icon_color=008F8C&border_color=00000000&bg_color=00000000"></a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/mrkjofficial"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkjofficial&layout=compact&hide_border=true&title_color=008F8C&text_color=F2A71B&icon_color=008F8C&border_color=00000000&bg_color=00000000"></a>
+            <a href="#"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkjofficial&layout=compact&hide_border=true&title_color=008F8C&text_color=F2A71B&icon_color=008F8C&border_color=00000000&bg_color=00000000"></a>
         </td>
         <td>
             <a href="#"><img alt="Karan's Activity" src="https://github-readme-stats.vercel.app/api/wakatime?username=mrkjofficial&custom_title=Activities&hide_border=true&title_color=008F8C&text_color=F2A71B&icon_color=008F8C&border_color=00000000&bg_color=00000000"></a>
