@@ -76,7 +76,7 @@
             <a href="https://github.com/mrkjofficial"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkjofficial&layout=compact&hide_border=true&title_color=008F8C&text_color=F2A71B&icon_color=008F8C&border_color=00000000&bg_color=00000000"></a>
         </td>
         <td>
-            <a href="https://github.com/mrkjofficial"><img alt="Karan's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mrkjofficial&hide_border=true&title_color=008F8C&text_color=F2A71B&icon_color=008F8C&border_color=00000000&bg_color=00000000"></a>
+            <a href="https://github.com/mrkjofficial"><img alt="Karan's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mrkjofficial&custom_title=Activities&hide_border=true&title_color=008F8C&text_color=F2A71B&icon_color=008F8C&border_color=00000000&bg_color=00000000"></a>
         </td>
     </tr>
 </table>
