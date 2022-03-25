@@ -31,22 +31,22 @@
 # Skills <img src="resources/skills.gif" width="32px">
 
 <p align="left">
-    <img alt="Android Studio" src="skills/android.png" width="32px">
+    <!-- <img alt="Android Studio" src="skills/android.png" width="32px"> -->
     <img alt="Bootstrap" src="skills/bootstrap.png" width="32px">
     <img alt="C" src="skills/c.png" width="32px">
     <img alt="C++" src="skills/cpp.png" width="32px">
     <img alt="C#" src="skills/cs.png" width="32px">
     <img alt="CSS" src="skills/css.png" width="32px">
-    <img alt="Express.js" src="skills/expressjs.png" width="32px">
+    <!-- <img alt="Express.js" src="skills/expressjs.png" width="32px"> -->
     <img alt="HTML" src="skills/html.png" width="32px">
     <img alt="Java" src="skills/java.png" width="32px">
-    <img alt="Javascript" src="skills/js.png" width="32px">
-    <img alt="MongoDB" src="skills/mongodb.png" width="32px">
+    <!-- <img alt="Javascript" src="skills/js.png" width="32px"> -->
+    <!-- <img alt="MongoDB" src="skills/mongodb.png" width="32px"> -->
     <img alt="MySQL" src="skills/mysql.png" width="32px">
-    <img alt="Node.js" src="skills/nodejs.png" width="32px">
+    <!-- <img alt="Node.js" src="skills/nodejs.png" width="32px"> -->
     <img alt="PHP" src="skills/php.png" width="32px">
     <img alt="Python" src="skills/py.png" width="32px">
-    <img alt="React.js" src="skills/reactjs.png" width="32px">
+    <!-- <img alt="React.js" src="skills/reactjs.png" width="32px"> -->
     <img alt="SQL Server" src="skills/sqlserver.png" width="32px">
 </p>
 
