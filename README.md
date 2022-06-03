@@ -2,7 +2,7 @@
     <img alt="Cover" src="resources/cover.png"/>
 </p>
 
-# Hello, `<Developers/>`! <img alt="Wave" src = "resources/wave.gif" width="32px" height="32px">
+# Hello, `<Developers/>`! <img alt="Wave" height="32px" src = "resources/wave.gif" width="32px">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mrkjofficial)](https://github.com/mrkjofficial)
 [![Github](https://img.shields.io/github/followers/mrkjofficial?label=Follow&style=social)](https://github.com/mrkjofficial)
@@ -12,9 +12,9 @@
     Thank You for visiting my GitHub Profile! :smile:
 </p>
 
-# About Me <img src = "resources/about.gif" width="32px">
+# About Me <img height="32px" src = "resources/about.gif" width="32px">
 
-<img align="right" alt="Eat Sleep Code Repeat" src="resources/eat-sleep-code-repeat.gif" width="25%"/>
+<img align="right" alt="Eat Sleep Code Repeat" height="25%" src="resources/eat-sleep-code-repeat.gif" width="25%"/>
 
 - 🎓 I'm a student of Pondicherry University.
 
@@ -28,7 +28,7 @@
 
 - 💬 Talk to me about Projects, Freelancing Opportunites, Open-Source Collaborations.
 
-# Skills <img src="resources/skills.gif" width="32px">
+# Skills <img height="32px" src="resources/skills.gif" width="32px">
 
 <p align="left">
     <!-- <img alt="Android Studio" src="skills/android.png" width="32px"> -->
@@ -53,14 +53,14 @@
 # Connect with Me <img src="resources/connect.gif" width="100px">
 
 <p align="left">
-    <a href="https://discordapp.com/users/411507564082233355"><img alt="TheMadBrat" src="connections/discord.gif" width="48px"/></a>
-    <a href="https://www.facebook.com/mr.kj.official"><img alt="mr.kj.official" src="connections/facebook.gif" width="48px"/></a>
-    <a href="https://www.instagram.com/mr.kj.official/"><img alt="mr.kj.official" src="connections/instagram.gif" width="48px"/></a>
-    <a href="https://www.linkedin.com/in/mrkjofficial/"><img alt="mr.kj.official" src="connections/linkedin.gif" width="48px"/></a>
-    <a href="https://twitter.com/mr_kj_official"><img alt="mr_kj_official" src="connections/twitter.gif" width="48px"/></a>
+    <a href="https://discordapp.com/users/411507564082233355"><img alt="TheMadBrat" height="48px" src="connections/discord.gif" width="48px"/></a>
+    <a href="https://www.facebook.com/mr.kj.official"><img alt="mr.kj.official" height="48px" src="connections/facebook.gif" width="48px"/></a>
+    <a href="https://www.instagram.com/mr.kj.official/"><img alt="mr.kj.official" height="48px" src="connections/instagram.gif" width="48px"/></a>
+    <a href="https://www.linkedin.com/in/mrkjofficial/"><img alt="mr.kj.official" height="48px" src="connections/linkedin.gif" width="48px"/></a>
+    <a href="https://twitter.com/mr_kj_official"><img alt="mr_kj_official" height="48px" src="connections/twitter.gif" width="48px"/></a>
 </p>
 
-# My Github Statistics <img src="resources/stats.gif" width="32px">
+# My Github Statistics <img height="32px" src="resources/stats.gif" width="32px">
 
 <table align="center">
     <tr>
