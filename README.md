@@ -50,7 +50,7 @@
     <img alt="SQL Server" src="skills/sqlserver.png" width="32px">
 </p>
 
-# Connect with Me <img src="resources/connect.gif" width="100px">
+# Connect with Me <img height="46px" src="resources/connect.gif" width="100px">
 
 <p align="left">
     <a href="https://discordapp.com/users/411507564082233355"><img alt="TheMadBrat" height="48px" src="connections/discord.gif" width="48px"/></a>
