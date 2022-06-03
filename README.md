@@ -2,7 +2,7 @@
     <img alt="Cover" src="resources/cover.png"/>
 </p>
 
-# Hello, `<Developers/>`! <img alt="Wave" src = "resources/wave.gif" width="32px">
+# Hello, `<Developers/>`! <img alt="Wave" src = "resources/wave.gif" width="32px" height="32px">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mrkjofficial)](https://github.com/mrkjofficial)
 [![Github](https://img.shields.io/github/followers/mrkjofficial?label=Follow&style=social)](https://github.com/mrkjofficial)
