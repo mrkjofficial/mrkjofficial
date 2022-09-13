@@ -37,6 +37,7 @@
     <img alt="C#" src="skills/cs.png" width="32px">
     <img alt="CSS" src="skills/css.png" width="32px">
     <img alt="Express.js" src="skills/expressjs.png" width="32px">
+    <img alt="Firebase" src="skills/firebase.png" width="32px">
     <img alt="HTML" src="skills/html.png" width="32px">
     <img alt="Java" src="skills/java.png" width="32px">
     <img alt="Javascript" src="skills/js.png" width="32px">
@@ -47,6 +48,7 @@
     <img alt="Python" src="skills/py.png" width="32px">
     <img alt="React.js" src="skills/reactjs.png" width="32px">
     <img alt="SQL Server" src="skills/sqlserver.png" width="32px">
+    <img alt="TailwindCSS" src="skills/tailwind.png" width="32px">
 </p>
 
 # Connect with Me <img height="46px" src="resources/connect.gif" width="100px">
