@@ -74,7 +74,7 @@
     </tr>
     <tr>
         <td>
-            <a href="#"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkjofficial&layout=compact&hide_border=true&title_color=008F8C&text_color=F2A71B&icon_color=008F8C&border_color=00000000&bg_color=00000000"></a>
+            <a href="#"><img alt="Top Langs" src="https://readme-stats.clckblog.space/api/top-langs/?username=mrkjofficial&layout=compact&hide_border=true&title_color=008F8C&text_color=F2A71B&icon_color=008F8C&border_color=00000000&bg_color=00000000"></a>
         </td>
         <td>
             <a href="#"><img alt="Karan's Activity" src="https://github-readme-stats.vercel.app/api/wakatime?username=mrkjofficial&custom_title=Karan%20Jaiswal%27s%20Activities&langs_count=5&hide=Other&hide_border=true&title_color=008F8C&text_color=F2A71B&icon_color=008F8C&border_color=00000000&bg_color=00000000&v=2"></a>
