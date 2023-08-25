@@ -20,7 +20,7 @@
 
 - 👀 I’m interested in problem solving.
 
-- 🔭 I’m currently working on an Android Project.
+- 🔭 I’m currently working as a Full-Stack Developer.
 
 - 🌱 I’m currently learning Data Structures & Algorithms.
 
