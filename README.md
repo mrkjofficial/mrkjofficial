@@ -16,39 +16,40 @@
 
 <img align="right" alt="Eat Sleep Code Repeat" height="25%" src="resources/eat-sleep-code-repeat.gif" width="25%"/>
 
-- 🎓 I'm a student of Pondicherry University.
+- 🎓 Graduated from Pondicherry University.
 
-- 👀 I’m interested in problem solving.
+- 👀 Interested in problem solving.
 
-- 🔭 I’m currently working as a Full-Stack Developer.
+- 🔭 Currently working as a Full-Stack Developer.
 
-- 🌱 I’m currently learning Data Structures & Algorithms.
+- 🌱 In love with Data Structures & Algorithms.
 
-- 👯 I’m looking to collaborate in an Open-Source Projects.
+- 👯 Looking to collaborate in an Open-Source Projects.
 
 - 💬 Talk to me about Projects, Freelancing Opportunites, Open-Source Collaborations.
 
 # Skills <img height="32px" src="resources/skills.gif" width="32px">
 
 <p align="left">
-    <img alt="Android Studio" src="skills/android.png" width="32px">
+    <img alt="AWS" src="skills/aws.png" width="32px">
     <img alt="Bootstrap" src="skills/bootstrap.png" width="32px">
     <img alt="C++" src="skills/cpp.png" width="32px">
-    <img alt="C#" src="skills/cs.png" width="32px">
     <img alt="CSS" src="skills/css.png" width="32px">
+    <img alt="Docker" src="skills/docker.png" width="32px">
     <img alt="Express.js" src="skills/expressjs.png" width="32px">
     <img alt="Firebase" src="skills/firebase.png" width="32px">
     <img alt="HTML" src="skills/html.png" width="32px">
     <img alt="Java" src="skills/java.png" width="32px">
-    <img alt="Javascript" src="skills/js.png" width="32px">
+    <img alt="JavaScript" src="skills/javascript.png" width="32px">
     <img alt="MongoDB" src="skills/mongodb.png" width="32px">
     <img alt="MySQL" src="skills/mysql.png" width="32px">
+    <img alt="Next.js" src="skills/nextjs.png" width="32px">
     <img alt="Node.js" src="skills/nodejs.png" width="32px">
-    <img alt="PHP" src="skills/php.png" width="32px">
-    <img alt="Python" src="skills/py.png" width="32px">
+    <img alt="PostgreSQL" src="skills/postgresql.png" width="32px">
+    <img alt="Python" src="skills/python.png" width="32px">
     <img alt="React.js" src="skills/reactjs.png" width="32px">
-    <img alt="SQL Server" src="skills/sqlserver.png" width="32px">
     <img alt="TailwindCSS" src="skills/tailwind.png" width="32px">
+    <img alt="TypeScript" src="skills/typescript.png" width="32px">
 </p>
 
 # Connect with Me <img height="46px" src="resources/connect.gif" width="100px">
