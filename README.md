@@ -45,7 +45,7 @@
     <img alt="MySQL" src="skills/mysql.png" width="32px">
     <img alt="Next.js" src="skills/nextjs.png" width="32px">
     <img alt="Node.js" src="skills/nodejs.png" width="32px">
-    <img alt="PostgreSQL" src="skills/postgresql.png" width="32px">
+    <img alt="PostgreSQL" src="skills/postgres.png" width="32px">
     <img alt="Python" src="skills/python.png" width="32px">
     <img alt="React.js" src="skills/reactjs.png" width="32px">
     <img alt="TailwindCSS" src="skills/tailwind.png" width="32px">
