@@ -63,11 +63,11 @@
 </p>
 
 # My Github Statistics <img height="32px" src="resources/stats.gif" width="32px">
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mrkjofficial&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&border=00000000&stroke=008F8C&ring=008F8C&fire=F2A71B&currStreakNum=F2A71B&sideNums=008F8C&currStreakLabel=F2A71B&sideLabels=F2A71B&dates=F2A71B&excludeDaysLabel=F2A71B)](https://git.io/streak-stats)
 <table align="center">
     <tr>
         <td>
-            [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mrkjofficial&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&border=00000000&stroke=008F8C&ring=008F8C&fire=F2A71B&currStreakNum=F2A71B&sideNums=008F8C&currStreakLabel=F2A71B&sideLabels=F2A71B&dates=F2A71B&excludeDaysLabel=F2A71B)](https://git.io/streak-stats)
+            
 <!--             <a href="#"><img alt="Karan's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=mrkjofficial&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&border=00000000&stroke=008F8C&ring=008F8C&fire=F2A71B&currStreakNum=F2A71B&sideNums=008F8C&currStreakLabel=F2A71B&sideLabels=F2A71B&dates=F2A71B&excludeDaysLabel=F2A71B"></a> -->
         </td>
         <td>
