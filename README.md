@@ -67,7 +67,7 @@
 <table align="center">
     <tr>
         <td>
-            <a href="#"><img alt="Karan's GitHub Streak" src="https://streak-stats.demolab.com?user=mrkjofficial&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&border=00000000&stroke=008F8C&ring=008F8C&fire=F2A71B&currStreakNum=F2A71B&sideNums=008F8C&currStreakLabel=F2A71B&sideLabels=F2A71B&dates=F2A71B"></a>
+            <a href="#"><img alt="Karan's GitHub Streak" src="https://github-readme-streak-stats-eight.vercel.app?user=mrkjofficial&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&type=png&background=00000000&border=00000000&stroke=008F8C&ring=008F8C&fire=F2A71B&currStreakNum=F2A71B&sideNums=008F8C&currStreakLabel=F2A71B&sideLabels=F2A71B&dates=F2A71B"></a>
         </td>
         <td>
             <a href="#"><img alt="Karan's GitHub Stats" src="https://readme-stats.clckblog.space/api?username=mrkjofficial&show_icons=true&include_all_commits=true&hide_border=true&title_color=008F8C&text_color=F2A71B&icon_color=008F8C&border_color=00000000&bg_color=00000000"></a>
