@@ -16,17 +16,17 @@
 
 <img align="right" alt="Eat Sleep Code Repeat" height="25%" src="resources/eat-sleep-code-repeat.gif" width="25%"/>
 
-- 🎓 Graduated from Pondicherry University.
+-   🎓 Graduated from Pondicherry University.
 
-- 👀 Interested in problem solving.
+-   👀 Interested in problem solving.
 
-- 🔭 Currently working as a Full-Stack Developer.
+-   🔭 Currently working as a Full-Stack Developer.
 
-- 🌱 In love with Data Structures & Algorithms.
+-   🌱 In love with Data Structures & Algorithms.
 
-- 👯 Looking to collaborate in an Open-Source Projects.
+-   👯 Looking to collaborate in an Open-Source Projects.
 
-- 💬 Talk to me about Projects, Freelancing Opportunites, Open-Source Collaborations.
+-   💬 Talk to me about Projects, Freelancing Opportunites, Open-Source Collaborations.
 
 # Skills <img height="32px" src="resources/skills.gif" width="32px">
 
@@ -63,12 +63,13 @@
 </p>
 
 # My Github Statistics <img height="32px" src="resources/stats.gif" width="32px">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mrkjofficial&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&border=00000000&stroke=008F8C&ring=008F8C&fire=F2A71B&currStreakNum=F2A71B&sideNums=008F8C&currStreakLabel=F2A71B&sideLabels=F2A71B&dates=F2A71B&excludeDaysLabel=F2A71B)](https://git.io/streak-stats)
+
 <table align="center">
     <tr>
         <td>
-            
-<!--             <a href="#"><img alt="Karan's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=mrkjofficial&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&border=00000000&stroke=008F8C&ring=008F8C&fire=F2A71B&currStreakNum=F2A71B&sideNums=008F8C&currStreakLabel=F2A71B&sideLabels=F2A71B&dates=F2A71B&excludeDaysLabel=F2A71B"></a> -->
+            <a href="#"><img alt="Karan's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=mrkjofficial&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&border=00000000&stroke=008F8C&ring=008F8C&fire=F2A71B&currStreakNum=F2A71B&sideNums=008F8C&currStreakLabel=F2A71B&sideLabels=F2A71B&dates=F2A71B&excludeDaysLabel=F2A71B"></a>
         </td>
         <td>
             <a href="#"><img alt="Karan's GitHub Stats" src="https://readme-stats.clckblog.space/api?username=mrkjofficial&show_icons=true&include_all_commits=true&hide_border=true&title_color=008F8C&text_color=F2A71B&icon_color=008F8C&border_color=00000000&bg_color=00000000"></a>
